@@ -1,5 +1,5 @@
 console.log('Hello World!');
 
-console.error('Пшёл нах');
+console.error('Сууукааа');
 
 console.log('Hi');
